@@ -111,7 +111,7 @@ public class Array {
 
         mul = arr1[index] * arr2[index];          		  // the Multiplication performed will be saved in mul variable
 
-        System.out.println("The Subtraction of Array 1 and Array 2 at index "+ index +" is:"+mul);
+        System.out.println("The Multiplication of Array 1 and Array 2 at index "+ index +" is:"+mul);
 
         return mul;
 
